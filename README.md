@@ -17,3 +17,4 @@ Main aim is to make an autonomous drone which helps to capture real time and pay
 dropping. Secondly a model is trained using convolutional neural networks. MobileNet is used
 with imagenet as dataset to load pre trained weights.
 
+### [Demo link](https://drive.google.com/drive/u/0/folders/1VaMtZQ9RWWKl3EarcpmhbXijF6iNZF6s)
